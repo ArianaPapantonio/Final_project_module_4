@@ -1,7 +1,8 @@
-# 🌈 Proud Travelers – Exploring Global LGTBIQA+ Safety & Rights
+# 🌈 Final Project Module 4 - Proud Travelers 
 
-**Final Project – Adalab Bootcamp**  
-*Technologies used: Python · Pandas · Power BI*
+This project was developed by **Marta Gamarra**, **Marina Gascó**, **Ariana Papantonio**, and **Verónica Sánchez** as part of **Module 4: Data Visualization | Power BI & Tableau** in the **Adalab Data Analytics Bootcamp**.
+
+Our goal was to explore and clean data, strength our **ETL** and **data visualization** skills and create impactful visualizations with **Tableau** or **Power BI** to communicate insights effectively.  
 
 ---
 
